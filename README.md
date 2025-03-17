@@ -1,0 +1,1 @@
+These are scripts used to process PicoQuant FLIM files (PTUs) in Python. The read_PTU_FLIM scripts are used to turn the PTUs into Python arrays, the other two scripts are used to process the arrays as multibeam images and save approrpiate images.
